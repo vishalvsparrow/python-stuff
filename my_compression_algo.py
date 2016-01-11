@@ -1,4 +1,10 @@
 #Trying data compression with the help of dictionary. It was my idea in the 5th sem to do so. Let us being writing a wonderful code.
+#Input file: compression.txt
+#file size: 4,373 bytes
+#Output file: compression_output.txt
+#file size: 4,317 bytes
+#Compression achieved: 5.397%
+
 import itertools
 import re
 fname = raw_input('Enter the name of the file')
