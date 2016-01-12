@@ -85,6 +85,7 @@ def CalculateSize():
 #		temp.append((key,binaryList[count]))
 		count +=1
 #	mydict2 =dict(temp)
+	print mydict2
 	return mydict2
 
 #mydict = CalculateSize()
