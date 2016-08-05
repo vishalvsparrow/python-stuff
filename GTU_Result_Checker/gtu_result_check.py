@@ -6,7 +6,7 @@ import time
 match = list()
 
 # Define the time interval to check the result, in seconds
-time_to_check = 5
+time_to_check = 10
 string_to_check = 'BE SEM 4 - Regular'
 
 # I like my computer making a 432 hertz sound lasting for 1 second
