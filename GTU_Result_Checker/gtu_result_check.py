@@ -32,5 +32,4 @@ if flag == 1:
 	print 'Check your result on the GTU website. Press ctrl+C or ctrl+D to exit'
 	while 1:
 		winsound.Beep(freq,dur)
-		time.sleep(4)
-
+		time.sleep(3)
